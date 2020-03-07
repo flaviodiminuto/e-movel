@@ -24,7 +24,7 @@ A monetização da plataforma é feita através de pequenas taxas R$ 0,99 por bo
 
 [Flávio da Silva Santos](https://github.com/flaviodiminuto)
 
-Gerson Soares da Silva 
+[Gerson Soares da Silva](https://github.com/NickMisael)
 
 [Nicholas Misael Fagundes Matos](https://github.com/NickMisael)
 
